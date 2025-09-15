@@ -3,7 +3,8 @@ body: ''
 content_type: resource
 description: ''
 draft: ''
-file: /courses/18-s097-introduction-to-metric-spaces-iap-2022/mit18_s097iap22_lec3.tex
+file: /ol-ocw-studio-app/courses/18-s097-introduction-to-metric-spaces-iap-2022/mit18_s097iap22_lec3.tex
+file_size: 17710
 file_type: text/x-tex
 image_metadata:
   caption: ''
