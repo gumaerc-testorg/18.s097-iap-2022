@@ -33,11 +33,12 @@
     "website": "introduction-to-metric-spaces"
   },
   "learning_resource_types": [
-    "Online Textbook",
+    "Open Textbooks",
     "Lecture Notes",
     "Problem Sets",
     "Instructor Insights"
   ],
   "site_uid": "cc265bcb-483b-47d9-bd2f-dc994090151d",
-  "site_short_id": "18.s097-iap-2022"
+  "site_short_id": "18.s097-iap-2022",
+  "site_url_path": "courses/18-s097-introduction-to-metric-spaces-iap-2022"
 }
