@@ -10,7 +10,7 @@ Lectures: 2 sessions / week, 1.5 hour / session
 
 ## Prerequisites
 
-[*18.100A Real Analysis*](https://ocw.mit.edu/courses/18-100a-introduction-to-analysis-fall-2012/)
+{{% resource_link "77c95a82-d804-4d4d-bdb8-ac41cab0f642" "*18.100A Real Analysis*" %}}
 
 or *18.100P Real Analysis*
 
@@ -22,9 +22,9 @@ This course provides a basic introduction to metric spaces. It covers metrics, o
 
 There is no official textbook. Lecture notes will be provided. You may find the following textbooks useful:
 
-Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as [a free PDF download](https://www.jirka.org/ra/). You can purchase a paper copy by following a link at the same site.
+Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as {{% resource_link "d231a5a4-0fe7-47ee-900a-7b65e0bbd7ed" "a free PDF download" %}}. You can purchase a paper copy by following a link at the same site.
 
-Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real Analysis*. CreateSpace Independent Publishing Platform, 2008. ISBN: 9781434841612. This book is available as [a free PDF download (PDF - 5.96 MB)](http://classicalrealanalysis.info/documents/TBB-AllChapters-Landscape.pdf). 
+Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real Analysis*. CreateSpace Independent Publishing Platform, 2008. ISBN: 9781434841612. This book is available as {{% resource_link "41dcb3ca-5314-4676-8c47-74444897401e" "a free PDF download (PDF - 5.96 MB)" %}}. 
 
 Rudin, Walter. *Principles of Mathematical Analysis*. McGraw Hill, 1976. ISBN: 9780070542358.
 

@@ -6,9 +6,9 @@ uid: 8e06fb76-d065-40da-8032-b5519af9bac5
 ---
 There is no official textbook. Lecture notes are provided below. You may find the following textbooks useful:
 
-\[L\] = Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as [a free PDF download](https://www.jirka.org/ra/). 
+\[L\] = Lebl, Jiri. *Basic Analysis I: Introduction to Real Analysis, Volume 1*. CreateSpace Independent Publishing Platform, 2018. ISBN: 9781718862401. This book is available as {{% resource_link "d231a5a4-0fe7-47ee-900a-7b65e0bbd7ed" "a free PDF download" %}}. 
 
-\[TBB\] = Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real Analysis*. CreateSpace Independent Publishing Platform, 2008. ISBN: 9781434841612. This book is available as [a free PDF download (PDF - 5.96 MB)](http://classicalrealanalysis.info/documents/TBB-AllChapters-Landscape.pdf). 
+\[TBB\] = Thomson, Brian S., Judith B. Bruckner, and Andrew M. Bruckner. *Elementary Real Analysis*. CreateSpace Independent Publishing Platform, 2008. ISBN: 9781434841612. This book is available as {{% resource_link "41dcb3ca-5314-4676-8c47-74444897401e" "a free PDF download (PDF - 5.96 MB)" %}}. 
 
 \[R\] = Rudin, Walter. *Principles of Mathematical Analysis*. McGraw Hill, 1976. ISBN: 9780070542358.
 
